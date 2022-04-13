@@ -1,3 +1,5 @@
+import './employees-list-item.css';
+
 const EmloyeesListItem = () => {
   return (
     <li className="list-group-item d-flex justify-content-between">
